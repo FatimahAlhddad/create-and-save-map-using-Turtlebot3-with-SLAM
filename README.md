@@ -1,4 +1,4 @@
-# create-and-save-map-using-Turtlebot3-with-SLAM
+# Create-and-Save-Map-Using-Turtlebot3-with-SLAM
 These will be the steps to install the tools needed for simulating, mapping, and controlling a turtlebot robot.
 
 *These packages were applied under ROS melodic and Ubuntu 18.04*
